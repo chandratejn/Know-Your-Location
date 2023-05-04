@@ -1,4 +1,4 @@
-# Know-Your-LocatioN
+# Know-Your-Location
 
 Development of a simple website to let the user get their current location details.
 
